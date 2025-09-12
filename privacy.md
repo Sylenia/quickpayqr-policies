@@ -154,6 +154,17 @@ If you have questions about this Privacy Policy or our privacy practices:
 - Local data: Retained until you delete it or uninstall the app
 - Ad data: Managed by Google AdMob according to their retention policies
 
+## Data Deletion Request
+
+QuickPay QR stores all user data locally on the device and does not transmit it to our servers.  
+Users can delete all stored data at any time by:
+
+- Uninstalling the app  
+- Clearing the app’s storage in device settings  
+
+No further action is required, as we do not collect or retain personal data on our servers.  
+For ads, users can manage preferences and opt-out of personalized ads at [Google’s Ad Settings](https://adssettings.google.com/).
+
 ### Data Minimization
 
 We follow the principle of data minimization by:
