@@ -10,8 +10,8 @@ These documents are required for publishing the app on the Google Play Store and
 
 ## 📄 Available Documents
 
-- [Privacy Policy](./privacy.md)  
-- [Terms & Conditions](./terms.md)  
+- [Privacy Policy](./privacy/)  
+- [Terms & Conditions](./terms/)  
 
 ---
 
@@ -28,8 +28,8 @@ These documents are required for publishing the app on the Google Play Store and
 
 ## 🌐 Live Pages (GitHub Pages)
 
-- Privacy Policy → `https://username.github.io/quickpayqr-policies/privacy`  
-- Terms & Conditions → `https://username.github.io/quickpayqr-policies/terms`  
+- Privacy Policy → `https://sylenia.github.io/quickpayqr-policies/privacy`  
+- Terms & Conditions → `https://sylenia.github.io/quickpayqr-policies/terms`
 
 ---
 
